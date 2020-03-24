@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/IvanLanceDeLeon/ProductivityApp.git/static/css/main.1e477f4a.chunk.css",
-    "main.js": "/IvanLanceDeLeon/ProductivityApp.git/static/js/main.3a91e15f.chunk.js",
-    "main.js.map": "/IvanLanceDeLeon/ProductivityApp.git/static/js/main.3a91e15f.chunk.js.map",
-    "runtime-main.js": "/IvanLanceDeLeon/ProductivityApp.git/static/js/runtime-main.e355acab.js",
-    "runtime-main.js.map": "/IvanLanceDeLeon/ProductivityApp.git/static/js/runtime-main.e355acab.js.map",
-    "static/css/2.c51b6406.chunk.css": "/IvanLanceDeLeon/ProductivityApp.git/static/css/2.c51b6406.chunk.css",
-    "static/js/2.3821346e.chunk.js": "/IvanLanceDeLeon/ProductivityApp.git/static/js/2.3821346e.chunk.js",
-    "static/js/2.3821346e.chunk.js.map": "/IvanLanceDeLeon/ProductivityApp.git/static/js/2.3821346e.chunk.js.map",
-    "index.html": "/IvanLanceDeLeon/ProductivityApp.git/index.html",
-    "precache-manifest.d5c49e009b0645aef752697b0c2f6d9e.js": "/IvanLanceDeLeon/ProductivityApp.git/precache-manifest.d5c49e009b0645aef752697b0c2f6d9e.js",
-    "service-worker.js": "/IvanLanceDeLeon/ProductivityApp.git/service-worker.js",
-    "static/css/2.c51b6406.chunk.css.map": "/IvanLanceDeLeon/ProductivityApp.git/static/css/2.c51b6406.chunk.css.map",
-    "static/css/main.1e477f4a.chunk.css.map": "/IvanLanceDeLeon/ProductivityApp.git/static/css/main.1e477f4a.chunk.css.map",
-    "static/js/2.3821346e.chunk.js.LICENSE.txt": "/IvanLanceDeLeon/ProductivityApp.git/static/js/2.3821346e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/IvanLanceDeLeon/ProductivityApp.git/static/media/bg3.466b3b8e.png",
-    "static/media/fanfare.mp3": "/IvanLanceDeLeon/ProductivityApp.git/static/media/fanfare.ecec05ce.mp3"
+    "main.css": "/IvanLanceDeLeon/ProductivityApp/static/css/main.e8e1d080.chunk.css",
+    "main.js": "/IvanLanceDeLeon/ProductivityApp/static/js/main.6b018f24.chunk.js",
+    "main.js.map": "/IvanLanceDeLeon/ProductivityApp/static/js/main.6b018f24.chunk.js.map",
+    "runtime-main.js": "/IvanLanceDeLeon/ProductivityApp/static/js/runtime-main.3c1b08b1.js",
+    "runtime-main.js.map": "/IvanLanceDeLeon/ProductivityApp/static/js/runtime-main.3c1b08b1.js.map",
+    "static/css/2.c51b6406.chunk.css": "/IvanLanceDeLeon/ProductivityApp/static/css/2.c51b6406.chunk.css",
+    "static/js/2.3821346e.chunk.js": "/IvanLanceDeLeon/ProductivityApp/static/js/2.3821346e.chunk.js",
+    "static/js/2.3821346e.chunk.js.map": "/IvanLanceDeLeon/ProductivityApp/static/js/2.3821346e.chunk.js.map",
+    "index.html": "/IvanLanceDeLeon/ProductivityApp/index.html",
+    "precache-manifest.5c2f919563ff5ff26ba631195a3622d1.js": "/IvanLanceDeLeon/ProductivityApp/precache-manifest.5c2f919563ff5ff26ba631195a3622d1.js",
+    "service-worker.js": "/IvanLanceDeLeon/ProductivityApp/service-worker.js",
+    "static/css/2.c51b6406.chunk.css.map": "/IvanLanceDeLeon/ProductivityApp/static/css/2.c51b6406.chunk.css.map",
+    "static/css/main.e8e1d080.chunk.css.map": "/IvanLanceDeLeon/ProductivityApp/static/css/main.e8e1d080.chunk.css.map",
+    "static/js/2.3821346e.chunk.js.LICENSE.txt": "/IvanLanceDeLeon/ProductivityApp/static/js/2.3821346e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/IvanLanceDeLeon/ProductivityApp/static/media/bg3.466b3b8e.png",
+    "static/media/fanfare.mp3": "/IvanLanceDeLeon/ProductivityApp/static/media/fanfare.ecec05ce.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.e355acab.js",
+    "static/js/runtime-main.3c1b08b1.js",
     "static/css/2.c51b6406.chunk.css",
     "static/js/2.3821346e.chunk.js",
-    "static/css/main.1e477f4a.chunk.css",
-    "static/js/main.3a91e15f.chunk.js"
+    "static/css/main.e8e1d080.chunk.css",
+    "static/js/main.6b018f24.chunk.js"
   ]
 }
